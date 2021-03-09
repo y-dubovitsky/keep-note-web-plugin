@@ -1,0 +1,1 @@
+# Plugin that saves text from the browser.
